@@ -7,3 +7,5 @@
 4- opened a style.css file and deleted the rest, styled it a bit + added some inline style between {{}} since you need to do it that way, i guess.
 
 5-playing around with functions, assinging it, and firing it when needed when eeded + how to do avoid it firing automatically.
+
+6- getting into hooks and useState
