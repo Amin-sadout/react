@@ -1,0 +1,45 @@
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 4px auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #14990d;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 20px;
+  text-decoration: none;
+  padding:20px;
+}
+.navbar a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.content h1 {
+  font-size: 45px;
+  margin-bottom: 35px;
+  color: #14990d;
+  box-shadow: inset 0 -10px 0 rgba(7, 31, 6, 0.2);
+}
+
+.content p {
+  font-size: 18px;
+  line-height: 30px;
+}
