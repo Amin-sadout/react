@@ -11,8 +11,8 @@ const Navbar = () => {
             borderRadius: '8px',
             padding: '10px',
             }}>learninglink</a>
-            {/* reminder if you want a dynamic value you need to add it between {} */}
-            {/*the {} inside the {} is used to call in objects and yes you need to do it that way*/ }
+            {/* reminder if i want a dynamic value i need to add it between {} */}
+            {/*the {} inside the {} is used to call in objects and yes i need to do it that way, i think*/ }
 
         </div>
 

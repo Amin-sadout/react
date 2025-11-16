@@ -8,4 +8,6 @@
 
 5-playing around with functions, assinging it, and firing it when needed when eeded + how to do avoid it firing automatically.
 
-6- getting into hooks and useState
+6- getting into hooks and useState, forgot to add that we learned how to output a list aswell.
+
+7- we using props now and i got to understand how we can add data from one components, stick it between {} and store it in props in another componenet for us to use it there, cool shit. added some function and played around with it a bit. spend hours looking endlessly into errors 
